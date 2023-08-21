@@ -1,0 +1,120 @@
+<?xml version="1.0"?>
+<senalesReducidas>
+ <senal nombre="Prueba1" A="4">
+ <grupo g=1>
+ <tiempos>1</tiempos>
+ <datosGrupo>
+ <dato A=1>2</dato>
+ </datosGrupo>
+ </grupo>
+ <grupo g=2>
+ <tiempos>1</tiempos>
+ <datosGrupo>
+ <dato A=2>3</dato>
+ <dato A=2>3</dato>
+ </datosGrupo>
+ </grupo>
+ <grupo g=3>
+ <tiempos>1</tiempos>
+ <datosGrupo>
+ <dato A=3>0</dato>
+ <dato A=3>0</dato>
+ </datosGrupo>
+ </grupo>
+ <grupo g=4>
+ <tiempos>1,2</tiempos>
+ <datosGrupo>
+ <dato A=4>4</dato>
+ <dato A=4>4</dato>
+ <dato A=1>0</dato>
+ </datosGrupo>
+ </grupo>
+ <grupo g=5>
+ <tiempos>2</tiempos>
+ <datosGrupo>
+ <dato A=2>0</dato>
+ <dato A=2>0</dato>
+ </datosGrupo>
+ </grupo>
+ <grupo g=6>
+ <tiempos>2</tiempos>
+ <datosGrupo>
+ <dato A=3>6</dato>
+ <dato A=3>6</dato>
+ </datosGrupo>
+ </grupo>
+ <grupo g=7>
+ <tiempos>2,3</tiempos>
+ <datosGrupo>
+ <dato A=4>3</dato>
+ <dato A=4>3</dato>
+ <dato A=1>3</dato>
+ </datosGrupo>
+ </grupo>
+ <grupo g=8>
+ <tiempos>3</tiempos>
+ <datosGrupo>
+ <dato A=2>4</dato>
+ <dato A=2>4</dato>
+ </datosGrupo>
+ </grupo>
+ <grupo g=9>
+ <tiempos>3</tiempos>
+ <datosGrupo>
+ <dato A=3>0</dato>
+ <dato A=3>0</dato>
+ </datosGrupo>
+ </grupo>
+ <grupo g=10>
+ <tiempos>3,4</tiempos>
+ <datosGrupo>
+ <dato A=4>2</dato>
+ <dato A=4>2</dato>
+ <dato A=1>1</dato>
+ </datosGrupo>
+ </grupo>
+ <grupo g=11>
+ <tiempos>4</tiempos>
+ <datosGrupo>
+ <dato A=2>0</dato>
+ <dato A=2>0</dato>
+ </datosGrupo>
+ </grupo>
+ <grupo g=12>
+ <tiempos>4</tiempos>
+ <datosGrupo>
+ <dato A=3>1</dato>
+ <dato A=3>1</dato>
+ </datosGrupo>
+ </grupo>
+ <grupo g=13>
+ <tiempos>4,5</tiempos>
+ <datosGrupo>
+ <dato A=4>5</dato>
+ <dato A=4>5</dato>
+ <dato A=1>0</dato>
+ </datosGrupo>
+ </grupo>
+ <grupo g=14>
+ <tiempos>5</tiempos>
+ <datosGrupo>
+ <dato A=2>0</dato>
+ <dato A=2>0</dato>
+ </datosGrupo>
+ </grupo>
+ <grupo g=15>
+ <tiempos>5</tiempos>
+ <datosGrupo>
+ <dato A=3>3</dato>
+ <dato A=3>3</dato>
+ </datosGrupo>
+ </grupo>
+ <grupo g=16>
+ <tiempos>5</tiempos>
+ <datosGrupo>
+ <dato A=4>1</dato>
+ <dato A=4>1</dato>
+ </datosGrupo>
+ </grupo>
+ </senal>
+</senalesReducidas>
